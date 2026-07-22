@@ -1,0 +1,35 @@
+body{
+
+    background:#cb91f1;
+
+}
+
+.card{
+
+    transition:.3s;
+
+}
+
+.card:hover{
+
+    transform:scale(1.03);
+
+}
+
+.card img{
+
+    height:220px;
+
+    object-fit:cover;
+
+}
+
+.precio{
+
+    font-size:22px;
+
+    font-weight:bold;
+
+    color:#7c0a80;
+
+}
