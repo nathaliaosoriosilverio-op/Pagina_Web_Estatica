@@ -1,2 +1,2 @@
-# Pagina_Web_Estatica
+# Pagina_Web_Dinamica
 Este proyecto solo tiene fines académicos 
